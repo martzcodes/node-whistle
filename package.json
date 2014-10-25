@@ -10,6 +10,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Matt Martz",
-  "license": "BSD-2-Clause"
+  "author": "Matt Martz"
 }
